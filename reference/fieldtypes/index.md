@@ -208,7 +208,13 @@ _Options_
 {
     "components": {
         /* Custom components */
-    }
+    },
+    
+    /* Exclude the components listed */
+    "exclude": ["example"],
+    
+    /* Restrict the components available */
+    "restrict": []
 }
 ```
 
