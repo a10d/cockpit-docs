@@ -384,9 +384,12 @@ _Options_
 
 ```
 {
+  "type": "text", /* The type of the input element */
   "cls": "",
   "maxlength": null,
   "minlength": null,
+  "max": null,
+  "min": null,
   "step": null,
   "placeholder": null,
   "pattern": null,
